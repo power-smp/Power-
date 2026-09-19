@@ -1,0 +1,6 @@
+{
+  "name": "Power SMP",
+  "description": "الموقع الرسمي لسيرفر Power SMP - روابط الانضمام، إحصائيات اللاعبين، متجر الكيتات والرتب وديسكورد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
